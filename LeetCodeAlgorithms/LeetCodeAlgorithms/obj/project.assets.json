@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms.csproj",
+      "projectUniqueName": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\github projects\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms.csproj",
       "projectName": "LeetCodeAlgorithms",
-      "projectPath": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms.csproj",
+      "projectPath": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\github projects\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms.csproj",
       "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\obj\\",
+      "outputPath": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\github projects\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
