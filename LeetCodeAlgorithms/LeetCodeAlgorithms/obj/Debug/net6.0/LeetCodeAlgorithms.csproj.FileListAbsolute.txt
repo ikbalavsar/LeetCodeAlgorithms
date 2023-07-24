@@ -1,0 +1,15 @@
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\bin\Debug\net6.0\LeetCodeAlgorithms.exe
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\bin\Debug\net6.0\LeetCodeAlgorithms.deps.json
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\bin\Debug\net6.0\LeetCodeAlgorithms.runtimeconfig.json
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\bin\Debug\net6.0\LeetCodeAlgorithms.dll
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\bin\Debug\net6.0\LeetCodeAlgorithms.pdb
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.csproj.AssemblyReference.cache
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.AssemblyInfoInputs.cache
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.AssemblyInfo.cs
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.dll
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\refint\LeetCodeAlgorithms.dll
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.pdb
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\LeetCodeAlgorithms.genruntimeconfig.cache
+C:\Users\ikbal\OneDrive\Masaüstü\LeetCodeAlgorithms\LeetCodeAlgorithms\obj\Debug\net6.0\ref\LeetCodeAlgorithms.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Vl2FcXtrNqZKHd4K++x7fPbd09EAk4jgG+hHaEv/vTVemPQCuaLsY7afGtUGJ0dJV9Vs9oZmKv472VRPeKx0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikbal\\OneDrive\\Masaüstü\\LeetCodeAlgorithms\\LeetCodeAlgorithms\\LeetCodeAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikbal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ikbal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ikbal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ikbal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
